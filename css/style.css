@@ -1,0 +1,149 @@
+body{
+    background-color:   #575fcf;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 20px;
+    color: honeydew;
+   
+}
+#login {
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 4%;
+    font-size: 50px;
+}
+
+.all{
+    margin-top: 3%;
+    padding-top: 40px;
+    width: 22%;
+    height: 500px;
+    background-color: #222f3e;
+    border-radius: 26px;
+}
+.all2{
+    margin-top: 3%;
+    padding-top: 40px;
+    width: 22%;
+    height: 600px;
+    background-color: #222f3e;
+    border-radius: 26px;
+}
+
+label {
+    color:  #0c2461;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+#btncn{
+    background-color:#575fcf ;
+    border: #575fcf;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    width: 30%;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 20px;
+    outline: none;
+
+}
+::placeholder {
+    font-size: 14px;
+    color: honeydew;
+    padding-left: 4%;
+}
+a:hover {
+    background-color: #575fcf;
+  }
+.active {
+    background-color: #575fcf;
+
+}
+.all1{
+    margin-top: 4%;
+    margin-left: 20%;
+    padding-left: 7%;
+    padding-top: 40px;
+    
+    border-radius: 26px;
+}
+textarea {
+    padding: 4px;
+    padding-left: 0%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 3px solid #ccc;
+    box-shadow: 1px 1px 1px whitesmoke;
+    width:600px ;
+    outline: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+#inputad{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 2%;
+
+  width: 600px;
+  outline: none;
+  background-color: transparent;
+  margin-bottom: 8%;
+  color: whitesmoke;
+}
+#lb {
+    display: block;
+    margin-bottom: 10px;
+}
+#inputadd{
+    margin-left: -0%;
+}
+
+#btnedit {
+color: rgb(15, 10, 255);
+font-size: 24px;
+font-weight: bold;
+outline: none;
+
+}
+#btnpub{
+    background-color:white ;
+    border: #575fcf;
+    color: #222f3e;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    width: 10%;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 4%;
+    outline: none;
+}
+.description{
+    text-align: left;
+    margin:0%;
+    
+}
+#btndelete {
+    color: rgb(98, 7, 12);
+    font-size: 24px;
+    font-weight: bold;
+    outline: none;
+    
+    }
+
+    #ttt {
+        color: blue;
+    
+    }
+#inputA{
+    margin-bottom: 8%;
+    margin-left:6%;
+    background-color: #b0b4e7;
+    border-radius: 50px;
+    border-color: #b0b4e7;
+    border-top: none;
+    border-left: none;
+    width: 80%;
+    height: 60px;
+    outline: none;
+}
